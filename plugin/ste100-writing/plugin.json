@@ -1,0 +1,14 @@
+{
+  "name": "ste100-writing",
+  "displayName": "STE100 Writing",
+  "description": "Makes the agent write every response with the writing rules of ASD-STE100 Simplified Technical English (Issue 9), in English or Spanish. The conversation language is locked to the language of the first user message.",
+  "version": "1.1.0",
+  "author": {
+    "name": "ccbonillo"
+  },
+  "suggestedPrompts": [
+    "Rewrite this paragraph with the STE100 rules and show the changes",
+    "Escriba un procedimiento para instalar Git en Windows",
+    "Review this text against the STE100 writing rules"
+  ]
+}
