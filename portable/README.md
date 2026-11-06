@@ -32,6 +32,6 @@ You can use the portable prompt files to apply ASD-STE100 writing rules in web c
 ## 3. Google Gemini
 
 ### In Gemini Gems
-1. Open **Gem Manager** -> **New Gem**.
+1. Open **Skills** -> **Create new skill manually**.
 2. In the **Instructions** section, paste the contents of:
    [`system-prompt.md`](./system-prompt.md)
