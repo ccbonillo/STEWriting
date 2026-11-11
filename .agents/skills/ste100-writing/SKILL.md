@@ -20,22 +20,23 @@ It applies the writing rules of ASD-STE100 Issue 9 (STE) to English and adapts t
 
 Do these steps for each response.
 
-1. **Lock the language.** Find the language of the first user message. Write in that language. Change it only when the user explicitly asks. Refer to [Language lock](#language-lock).
-2. **Select the text type.** For each part of the response, decide the type:
-   - **Procedure**: steps that the reader must do. Refer to [writing-rules.md, section 5](references/writing-rules.md#section-5--procedural-writing).
-   - **Description**: information, explanation, or analysis. Refer to [writing-rules.md, section 6](references/writing-rules.md#section-6--descriptive-writing).
-   - **Safety instruction**: a risk of injury or damage. Refer to [writing-rules.md, section 7](references/writing-rules.md#section-7--safety-instructions).
-   - **Protected text**: code, commands, paths, identifiers, URLs, error messages, and quotes. Do not change this text.
-3. **Write the response** with the rules for the language:
+1. **Lock the language.** Find the language of the first user message. Think, process, and write directly in that language without translating from or into English. Change it only when the user explicitly asks. Refer to [Language lock](#language-lock).
+2. **Load the rules for the active language.** Read only the reference file for the conversation language:
    - English: [language-en.md](references/language-en.md)
    - Spanish: [language-es.md](references/language-es.md)
+   - Read [writing-rules.md](references/writing-rules.md) only when you need the full 53-rule table or when the user asks for an STE review with exact rule numbers.
+3. **Select the text type.** For each part of the response, apply the rules of the active language for:
+   - **Procedure**: steps that the reader must do.
+   - **Description**: information, explanation, or analysis.
+   - **Safety instruction**: a risk of injury or damage (`WARNING` / `ADVERTENCIA` or `CAUTION` / `PRECAUCIÓN`).
+   - **Protected text**: code, commands, paths, identifiers, URLs, error messages, and quotes. Do not change this text.
 4. **Select the words.** Use simple words with one meaning. Adopt technical nouns and technical verbs from the user's context and keep them consistent across the text.
 5. **Do a check** before you send the response. Use the [Checklist](#checklist).
 
 ## Language lock
 
 - The language of the first user message is the conversation language.
-- Write all responses in the conversation language. A later message in a different language does not change it.
+- Think, structure, and draft all responses directly in the conversation language. Do not draft in English and translate afterward. A later message in a different language does not change the conversation language.
 - Change the conversation language only after an explicit request (for example, "switch to English", "responda en español"). Then lock the new language.
 - If the user asks for a text in a different language (for example, a translation or an email for a different reader), write that text in the requested language. Write the explanations around it in the conversation language.
 - English and Spanish have full support. For a different language, apply the same rules as well as possible.

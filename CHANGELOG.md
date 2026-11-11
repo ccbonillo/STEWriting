@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0] - 2026-11-11
+
+### Changed
+- Optimized the Spanish workflow to prevent intermediate double translation.
+- Added explicit native-thinking directive in `rules/AGENTS.md` and `SKILL.md` to process directly in the conversation language.
+- Added bilingual core rule examples in Level 1 (`AGENTS.md`) for verb actions, safety alerts (`ADVERTENCIA` / `PRECAUCIÓN`), and simple words.
+- Expanded `references/language-es.md` with complete operative STE rules (direct thinking, simple words, safety instructions, forbidden forms, and word count rules).
+- Updated Level 2 workflow in `SKILL.md` to load only the active language reference (`language-es.md` or `language-en.md`) and consult `writing-rules.md` only on demand for exact rule citations.
+
 ## [1.1.0] - 2026-11-05
 
 ### Changed

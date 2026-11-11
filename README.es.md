@@ -1,7 +1,7 @@
 # Skill y Plugin de Escritura STE100
 
 [![Licencia: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Versión: 1.1.0](https://img.shields.io/badge/versión-1.1.0-blue.svg)](CHANGELOG.md)
+[![Versión: 1.2.0](https://img.shields.io/badge/versión-1.2.0-blue.svg)](CHANGELOG.md)
 
 Skill y plugin de redacción técnica para agentes de IA, basado en el estándar internacional **ASD-STE100 Issue 9**.
 Permite a los modelos de IA generar respuestas precisas, concisas y libres de ambigüedad en **español** e **inglés**.
