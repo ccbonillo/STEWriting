@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.1] - 2026-11-12
+
+### Changed
+- Applied direct-thinking optimization and bilingual core examples to `portable/system-prompt.md` and `portable/chatgpt-custom-instructions.md` to prevent intermediate double translation in web chats.
+- Updated `portable/README.md`, `README.md`, and `README.es.md` with current chat skill setup instructions (ChatGPT, Claude Projects/Skills, and Gemini Skills).
+
 ## [1.2.0] - 2026-11-11
 
 ### Changed

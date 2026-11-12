@@ -2,7 +2,7 @@
   "name": "ste100-writing",
   "displayName": "STE100 Writing",
   "description": "Makes the agent write every response with the writing rules of ASD-STE100 Simplified Technical English (Issue 9), in English or Spanish. The conversation language is locked to the language of the first user message.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": {
     "name": "ccbonillo"
   },

@@ -1,7 +1,7 @@
 # Skill y Plugin de Escritura STE100
 
 [![Licencia: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Versión: 1.2.0](https://img.shields.io/badge/versión-1.2.0-blue.svg)](CHANGELOG.md)
+[![Versión: 1.2.1](https://img.shields.io/badge/versión-1.2.1-blue.svg)](CHANGELOG.md)
 
 Skill y plugin de redacción técnica para agentes de IA, basado en el estándar internacional **ASD-STE100 Issue 9**.
 Permite a los modelos de IA generar respuestas precisas, concisas y libres de ambigüedad en **español** e **inglés**.
@@ -16,7 +16,7 @@ Permite a los modelos de IA generar respuestas precisas, concisas y libres de am
   - Inglés: Modo imperativo directo y voz activa.
 - **Bloqueo de idioma:** Fija el idioma de respuesta según el primer mensaje enviado por el usuario.
 - **Plugin Global para Antigravity:** Se instala de forma global para regir todos sus proyectos y conversaciones.
-- **Versiones portables:** Prompts listos para copiar y usar en ChatGPT, Claude Projects y Gemini Gems.
+- **Versiones portables:** Prompts listos para copiar y usar en ChatGPT, Claude Projects/Skills y Gemini Skills.
 - **Respeto a derechos de autor:** Paráfrasis limpia y estructurada sin duplicar texto propietario de la ASD.
 
 ---

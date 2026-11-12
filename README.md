@@ -1,7 +1,7 @@
 # STE100 Writing Skill & Plugin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version: 1.2.0](https://img.shields.io/badge/version-1.2.0-blue.svg)](CHANGELOG.md)
+[![Version: 1.2.1](https://img.shields.io/badge/version-1.2.1-blue.svg)](CHANGELOG.md)
 
 English technical writing skill for AI assistants, based on the **ASD-STE100 Issue 9** standard.
 Enables AI models to write concise, unambiguous, and easily translatable text in **English** and **Spanish**.
@@ -18,7 +18,7 @@ Enables AI models to write concise, unambiguous, and easily translatable text in
   - Spanish: Formal treatment ("usted") and procedure steps in the infinitive.
 - **Language Lock:** Automatically locks output to the language of the first user message.
 - **Global Antigravity Plugin:** Installs globally to govern all workspace conversations.
-- **Universal Portability:** Ready-to-copy prompts for ChatGPT, Claude Projects, and Gemini Gems.
+- **Universal Portability:** Ready-to-copy prompts for ChatGPT, Claude Projects/Skills, and Gemini Skills.
 - **Copyright Safe:** Clean room paraphrase of writing rules; does not reproduce ASD proprietary text.
 
 ---
