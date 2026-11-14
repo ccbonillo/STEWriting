@@ -1,7 +1,7 @@
 # STE100 Writing Skill & Plugin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version: 1.2.1](https://img.shields.io/badge/version-1.2.1-blue.svg)](CHANGELOG.md)
+[![Version: 1.2.2](https://img.shields.io/badge/version-1.2.2-blue.svg)](CHANGELOG.md)
 
 English technical writing skill for AI assistants, based on the **ASD-STE100 Issue 9** standard.
 Enables AI models to write concise, unambiguous, and easily translatable text in **English** and **Spanish**.

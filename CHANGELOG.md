@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.2] - 2026-11-13
+
+### Changed
+- Moved the rule forbidding meta-mentions of ASD-STE100/STE to the top of `plugin/ste100-writing/rules/AGENTS.md` and `.agents/rules/ste100.md`, and extended it to preambles, status lines, and intermediate steps.
+- Added the same non-disclosure rule to `portable/system-prompt.md` and `portable/chatgpt-custom-instructions.md`.
+
 ## [1.2.1] - 2026-11-12
 
 ### Changed

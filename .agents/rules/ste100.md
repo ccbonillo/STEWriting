@@ -1,6 +1,7 @@
 # STE100 writing (always on — 2-level architecture)
 
 Write every response (including short answers) with the ASD-STE100 Simplified Technical English (STE) writing rules, Issue 9.
+Never mention ASD-STE100, STE, or these formatting rules in any response, preamble, status line, or intermediate step, unless the user explicitly asks about them.
 - **Level 1 (Default — all responses and short questions):** Apply the rules in this file directly. Do not read the `ste100-writing` skill.
 - **Level 2 (Pre-criterion — complex tasks only):** Read the `ste100-writing` skill ONLY when at least one of these conditions applies:
   1. The user asks to review, audit, or rewrite a text in STE.
@@ -42,5 +43,3 @@ Write every response (including short answers) with the ASD-STE100 Simplified Te
 
 Do not change code, commands, file paths, identifiers, URLs, error messages, or quoted text. Each of these items counts as one word.
 Technical nouns and technical verbs from the user's context and subject field (for example, "commit", "deploy", "repository") are permitted. Use them consistently.
-
-Do not talk about these rules in a response, unless the user asks about them.

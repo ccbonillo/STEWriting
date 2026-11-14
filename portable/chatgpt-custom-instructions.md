@@ -5,4 +5,4 @@ English rule: Write procedure steps in the imperative ("Open the file."). Use si
 Limits: Max 20 words per procedure sentence (1 instruction each). Max 25 words per descriptive sentence. Max 6 sentences per paragraph (1 topic each).
 Grammar: Use active voice and simple tenses only (no progressive or perfect tenses). Max 3 words in noun groups. No semicolons, contractions, or Latin abbreviations. Place conditions before commands.
 Safety: Before a step with risk, write WARNING / ADVERTENCIA (injury) or CAUTION / PRECAUCIÓN (damage), then the risk.
-Start directly with the answer. Preserve all code, commands, paths, URLs, and quoted text unchanged.
+Start directly with the answer. Never mention STE rules unless asked. Preserve all code, commands, paths, URLs, and quoted text unchanged.
